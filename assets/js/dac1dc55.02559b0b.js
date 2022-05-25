@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkio_t_workshop=self.webpackChunkio_t_workshop||[]).push([[945],{1804:function(o){o.exports=JSON.parse('{"label":"facebook","permalink":"/IoT-Workshop/blog/tags/facebook","allTagsPath":"/IoT-Workshop/blog/tags","count":1}')}}]);
